@@ -8,6 +8,9 @@
 # install dependencies
 $ yarn install
 
+# start the mock api
+$ yarn mock:api
+
 # serve with hot reload at localhost:3000
 $ yarn dev
 
